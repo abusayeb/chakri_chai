@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "821333894656",
+    "project_id": "chakri-chai",
+    "storage_bucket": "chakri-chai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821333894656:android:819ac6b577bb92336edae5",
+        "android_client_info": {
+          "package_name": "com.example.chakri_chai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821333894656-1o94jsjslcburvldc9v50sqmiepm208g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzCwZ-PMjxvkczhq0uu0lgqqIPs61uNVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821333894656-1o94jsjslcburvldc9v50sqmiepm208g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "821333894656-c9j6uip7893612jsv2nc9dg4tkbo0srn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chakriChai"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821333894656:android:e7aa2d5191f683de6edae5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821333894656-1o94jsjslcburvldc9v50sqmiepm208g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzCwZ-PMjxvkczhq0uu0lgqqIPs61uNVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821333894656-1o94jsjslcburvldc9v50sqmiepm208g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "821333894656-c9j6uip7893612jsv2nc9dg4tkbo0srn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chakriChai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
